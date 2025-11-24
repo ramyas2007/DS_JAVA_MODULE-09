@@ -21,8 +21,8 @@ To write a Java program that verifies whether the parentheses (brackets) in an i
 ```java
 /*
 Program to verify whether the parentheses (brackets) in an input string are balanced
-Developed by: S KANUSHA SREE
-RegisterNumber: 212224040149
+Developed by: S RAMYA
+RegisterNumber: 212224040268
 
 */
 
@@ -130,8 +130,8 @@ To write a Java program that reverses an input string using a stack, without usi
 ```java
 /*
 Program to reverses an input string using a stack
-Developed by: S KANUSHA SREE
-RegisterNumber: 212224040149
+Developed by: S RAMYA
+RegisterNumber: 212224040268
 
 */
 
@@ -191,8 +191,8 @@ To simulate the functioning of a ticket counter that operates on a First-In-Firs
 ```java
 /*
 Program to functioning of a ticket counter that operates on a First-In-First-Out (FIFO)
-Developed by: S KANUSHA SREE
-RegisterNumber: 212224040149
+Developed by: S RAMYA
+RegisterNumber: 212224040268
 
 */
 
@@ -337,8 +337,8 @@ To design a program that checks whether a given message is a palindrome by remov
 ```java
 /*
 Program to checks whether a given message is a palindrome by removing all non-alphanumeric characters.
-Developed by: S KANUSHA SREE
-RegisterNumber: 212224040149
+Developed by: S RAMYA
+RegisterNumber: 212224040268
 
 */
 
@@ -412,8 +412,8 @@ To design a program that sorts a given array of integers in ascending order with
 ```java
 /*
 Program tosorts a given array of integers in ascending order without using built-in sorting functions
-Developed by: S KANUSHA SREE
-RegisterNumber: 212224040149
+Developed by: S RAMYA
+RegisterNumber: 212224040268
 
 */
 
