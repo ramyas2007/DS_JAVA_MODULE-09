@@ -17,8 +17,8 @@ To design a program that sorts a given array of integers in ascending order with
 ```java
 /*
 Program tosorts a given array of integers in ascending order without using built-in sorting functions
-Developed by: S KANUSHA SREE
-RegisterNumber: 212224040149
+Developed by: S RAMYA
+RegisterNumber: 212224040268
 
 */
 
